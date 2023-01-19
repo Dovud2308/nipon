@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    padding:15px;
+    background-color:lightblue;
+    margin-bottom: 15px;
+}
+header a {
+    text-decoration:none;
+    border-radius:15px;
+    background-color:white;
+    padding:5px;
+
+}
+header b{
+    color:darkblue;
+}
+main h1{
+    color:darkblue;
+    text-align:center;
+    border-radius:10px;
+    border: black solid 1px;
+}
+footer p  {
+    background-color: lightgreen;
+}
+.productions{
+    color:darkblue;
+    background-color: white;
+    border:darkblue solid 1px;
+    border-radius:10px;
+    padding:5px;
+    margin:20px;
+     text-decoration:none;
+}
+nav a{
+    background-color: darkblue;
+    color:white;
+    border-radius:10px;
+    padding:5px;
+    margin:10px;
+    text-decoration:none;
+}
+
+
